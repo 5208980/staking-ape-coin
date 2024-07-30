@@ -5,7 +5,9 @@ Staking ApeCoin with your Bored Ape Yacht Club (BAYC) NFT is a great way to part
 ## Requirements
 To stake your BAYC, you will need the following:
 
-- ApeCoin Staking Contract Address: 0x5954aB967Bc958940b7EB73ee84797Dc8a2AFbb9 (Tesnet)
+- ApeCoin Staking Contract Address: 
+    - 0x5954aB967Bc958940b7EB73ee84797Dc8a2AFbb9 (Mainnet)
+    - 0x69a2e10e626a08654017075B7B0B1797ae67fe50 (Testnet)
 - BAYC Tuple Format: [["BAYC ID","Amount of ApeCoin to Stake"]]
 
 ### Understanding the SingleNft Struct
